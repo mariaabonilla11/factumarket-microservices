@@ -26,6 +26,13 @@ Gestión de clientes: https://github.com/mariaabonilla11/clients-service-app
 Gestión de facturas: https://github.com/mariaabonilla11/invoices-service-app
 Gestión de audits: https://github.com/mariaabonilla11/audits-service-app
 
+# Instalación
+
+Clonar todo el repositorio con cada de los submodulos o microservicios
+`git clone --recurse-submodules https://github.com/mariaabonilla11/factumarket-microservices.git`
+
+Dirigirse a cada una de las carpetas de los microservicio y seguir las instrucciones para su ejecución con Docker compose
+
 ## 👥 Autor
 
 Maria Bonilla
