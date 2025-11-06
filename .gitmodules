@@ -1,0 +1,9 @@
+[submodule "audits-service-app"]
+	path = audits-service-app
+	url = https://github.com/mariaabonilla11/audits-service-app.git
+[submodule "clients-service-app"]
+	path = clients-service-app
+	url = https://github.com/mariaabonilla11/clients-service-app.git
+[submodule "invoices-service-app"]
+	path = invoices-service-app
+	url = https://github.com/mariaabonilla11/invoices-service-app.git
